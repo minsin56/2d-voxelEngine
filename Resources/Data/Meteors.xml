@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeteorDatabase>
+  <meteor name ="meteor_small" size ="5" mass ="100"></meteor>
+  <meteor name ="meteor_medium" size ="10" mass ="200"></meteor>
+  <meteor name ="meteor_large" size ="50" mass ="1000"></meteor>
+</MeteorDatabase>

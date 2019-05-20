@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ItemDatabase>
+  <items>
+    <item id ="0" type ="misc" name ="stick" sprite ="Graphics/sprites/items/misc/stick" max_stack ="100"></item>
+    <item id ="0" type ="misc" name ="log" sprite ="Graphics/sprites/items/misc/log"></item>
+  </items>
+</ItemDatabase>

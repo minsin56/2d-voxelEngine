@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplosionDatabase>
+  <explosions>
+    <explosion name ="explosion_tnt" radius ="5"></explosion>
+    <explosion name ="explosion_dynamite" radius ="10"></explosion>
+    <explosion name ="explosion_meteor_small" radius ="20"></explosion>
+    <explosion name ="explosion_meteor_medium" radius ="40"></explosion>
+    <explosion name ="explosion_meteor_large" radius ="70"></explosion>
+  </explosions>
+</ExplosionDatabase>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VoxelDatabase>
+  <voxels>
+    <voxel name="air" texid ="-1" solid ="false" liquid ="false" id ="0"></voxel>
+    <voxel name="dirt" texid ="1" solid ="true" liquid ="false" id="1"></voxel>
+    <voxel name="grass" texid ="0" solid ="true" liquid ="false" id ="2"></voxel>
+    <voxel name="cobblestone" texid ="2" solid ="true" liquid ="false" id ="3"></voxel>
+    <voxel name ="water" texid ="3" solid ="true" liquid ="true" id ="4"></voxel>
+    <voxel name ="grass foiliage" texid ="4" solid ="true" liquid ="false" id ="5" collidable ="false" placeoncvoxel="true"></voxel>
+  </voxels>
+</VoxelDatabase>
