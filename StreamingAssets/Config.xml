@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <player>
+    <walkspeed>4.0</walkspeed>
+    <runspeed>5.0</runspeed>
+    <jumpspeed>35.0</jumpspeed>
+    <zoomSensitivity>2.0</zoomSensitivity>
+  </player>
+  <worldGen>
+    <seed>43982748923</seed>
+    <!--don't go over 128-->
+    <terrainMaxHeight>20</terrainMaxHeight>
+  </worldGen>
+</Config>
